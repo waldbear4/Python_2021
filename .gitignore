@@ -152,3 +152,19 @@ Thumbs.db
 
 
 # End of https://www.toptal.com/developers/gitignore/api/python
+*.txt
+*.pdf
+*.csv
+*.dbf
+*.sbn
+*.prj
+*.shp
+*.sbx
+*.jpg
+*.shx
+*.dat
+datasets/movielens/README
+*.xml
+*.py
+*.xsd
+*.json
