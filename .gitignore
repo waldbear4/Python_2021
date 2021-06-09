@@ -152,7 +152,6 @@ Thumbs.db
 
 
 # End of https://www.toptal.com/developers/gitignore/api/python
-*.txt
 *.pdf
 *.csv
 *.dbf
@@ -168,3 +167,5 @@ datasets/movielens/README
 *.py
 *.xsd
 *.json
+datasets/babynames/yob1995.txt
+*.txt
