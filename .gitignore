@@ -169,3 +169,9 @@ datasets/movielens/README
 *.json
 datasets/babynames/yob1995.txt
 *.txt
+examples/aclImdb_v1.tar.gz
+examples/aclImdb/train/unsupBow.feat
+examples/aclImdb/train/labeledBow.feat
+examples/aclImdb/test/labeledBow.feat
+examples/aclImdb/README
+examples/aclImdb/imdb.vocab
